@@ -16,7 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=mscodepl&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mscodepl&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=mscodepl&icon=0&color=6)
+![](https://img.shields.io/discord/925481295667167362?color=%235f5da6&label=Discord&logo=Discord&logoColor=%23fff&style=flat)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/mscodepl) 
