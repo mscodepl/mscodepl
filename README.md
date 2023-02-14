@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on: MINEIS, E-modo.pl<br>🌱 I’m currently learning: PHP, JavaScript<br>⚡ Fun fact: A crocodile cannot stick its tongue out. <br> 📫 How to reach me: [mateusz@mscode.pl](mailto:mateusz@mscode.pl)
+🔭 I’m currently working on: MINEIS, E-modo.pl<br>
+🌱 I’m currently learning: PHP, JavaScript<br>
+⚡ Fun fact: A crocodile cannot stick its tongue out. <br>
+📫 How to reach me: [mateusz@mscode.pl](mailto:mateusz@mscode.pl)
 
 
 ## 🌐 Socials:
