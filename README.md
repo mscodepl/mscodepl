@@ -8,7 +8,8 @@
 # 📨 How to reach me:<br>
 `📫` [mateusz@mscode.pl](mailto:mateusz@mscode.pl)<br>
 `🏙️` [Organization](https://github.com/mscode-pl)<br>
-`📱` [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UhhQqN6TVa)
+`📱` [Discord Server](https://discord.gg/UhhQqN6TVa)<br>
+`👤` [Discord](https://discord.com/users/433503150012629005)<br>
 
 *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*
 ~ Walt Disney
