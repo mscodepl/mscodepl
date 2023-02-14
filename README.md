@@ -1,8 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on: MINEIS, E-modo.pl<br>
-🌱 I’m currently learning: PHP, JavaScript<br>
-⚡ Fun fact: A crocodile cannot stick its tongue out. <br>
-📫 How to reach me: [mateusz@mscode.pl](mailto:mateusz@mscode.pl)
+`🔭` I’m currently working on: MINEIS, E-modo.pl<br>
+`🌱` I’m currently learning: PHP, JavaScript<br>
+`⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
+`📫` How to reach me: [mateusz@mscode.pl](mailto:mateusz@mscode.pl)
+`🏙️` ![Organization](https://github.com/mscode-pl)
+
+`💻`・CEO: **https://mscode.pl/**
+`🛒`・Administrator: **https://rservices.pl/**
+`👕`・Developer: **https://e-modo.pl/**
+
+*"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*
+~ Walt Disney
 
 
 ## 🌐 Socials:
