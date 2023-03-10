@@ -2,8 +2,8 @@
 `💻`・CEO: **https://mscode.pl/**<br>
 `🛒`・Administrator: **https://rservices.pl/**<br>
 `👕`・Developer: **https://e-modo.pl/**<br>
-`🌐`・Hosting: **https://discord.gg/UhhQqN6TVa**
-`🎮`・Minecraf tServer: **https://dc.szablacraft.top/**<br>
+`🌐`・Hosting: **https://discord.gg/UhhQqN6TVa**<br>
+`🎮`・Minecraft Server: **https://dc.szablacraft.top/**<br>
 `🌱` I’m currently learning: PHP, JavaScript<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
