@@ -1,5 +1,6 @@
 <div align="center">
-# 📝 About Me:
+
+#📝 About Me:
 `💻`・CEO: **https://mscode.pl/**<br>
 `👕`・Developer at: **https://e-modo.pl/**<br>
 `🌐`・Hosting: **https://discord.gg/mscode**<br>
@@ -10,7 +11,7 @@
   
 ![](https://visitcount.itsvg.in/api?id=mscodepl&icon=0&color=6)
 
-# 📨 How to reach me:<br>
+#📨 How to reach me:<br>
 `📫` [mateusz@mscode.pl](mailto:mateusz@mscode.pl)<br>
 `🏙️` [Organization](https://github.com/mscode-pl)<br>
 `📱` [Discord Server](https://discord.gg/UhhQqN6TVa)<br>
