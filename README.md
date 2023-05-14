@@ -1,13 +1,13 @@
 <div align="center">
 
 # 📝 About Me:
-    `💻`・CEO: **https://mscode.pl/**<br>
-    `👕`・Developer at: **https://e-modo.pl/**<br>
-    `🌐`・Hosting: **https://discord.gg/mscode**<br>
-    `🌱` I’m currently learning: PHP, React Native, React TS<br>
-    `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
-    `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
-    ~ Walt Disney
+`💻`・CEO: **https://mscode.pl/**<br>
+`👕`・Developer at: **https://e-modo.pl/**<br>
+`🌐`・Hosting: **https://discord.gg/mscode**<br>
+`🌱` I’m currently learning: PHP, React Native, React TS<br>
+`⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
+`📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
+  ~ Walt Disney
   
 ![](https://visitcount.itsvg.in/api?id=mscodepl&icon=0&color=6)
 
