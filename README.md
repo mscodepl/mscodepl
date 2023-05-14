@@ -1,7 +1,6 @@
 <div align="center">
 
 # 📝 About Me:
-  <div align="left">
     `💻`・CEO: **https://mscode.pl/**<br>
     `👕`・Developer at: **https://e-modo.pl/**<br>
     `🌐`・Hosting: **https://discord.gg/mscode**<br>
@@ -9,7 +8,6 @@
     `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
     `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
     ~ Walt Disney
-  </div>
   
 ![](https://visitcount.itsvg.in/api?id=mscodepl&icon=0&color=6)
 
