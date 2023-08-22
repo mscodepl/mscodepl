@@ -5,7 +5,7 @@
 `👕`・Developer at: **https://e-modo.pl/**<br>
 `💵`・Contributor at: **https://paymenter.org/**<br>
 `🌐`・Hosting: **https://discord.gg/mscode**<br>
-`🌱` I’m currently learning: PHP, React Native, React TS<br>
+`🌱` I’m currently learning: PHP, React Native and NextJS<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
   ~ Walt Disney
