@@ -3,7 +3,7 @@
 # 📝 About Me:
 `💻`・CEO: **https://mscode.pl/**<br>
 `👕`・Developer at: **https://e-modo.pl/**<br>
-`💵`・Contributor at: **https://paymenter.org/**<br>
+`💵`・Developer at: **https://paymenter.org/**<br>
 `🌐`・Hosting: **https://discord.gg/mscode**<br>
 `🌱` I’m currently learning: PHP, React Native and NextJS<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
