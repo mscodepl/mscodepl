@@ -5,7 +5,7 @@
 `👕`・Developer at: **https://e-modo.pl/**<br>
 `💵`・Developer at: **https://paymenter.org/**<br>
 `🌐`・Hosting: **https://discord.gg/mscode**<br>
-`🌱` I’m currently learning: PHP, React Native and NextJS<br>
+`🌱` I’m currently learning: React Native and NextJS<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
   ~ Walt Disney
@@ -16,9 +16,7 @@
 `🏙️` [Organization](https://github.com/mscode-pl)<br>
 `📱` [Discord Server](https://discord.gg/mscode)<br>
 
-[
-<img src="https://discord-cards.kurizu.repl.co/api/card/433503150012629005?about=%E2%9D%A4%EF%B8%8F%20MsCode.pl&banner=https://cms.mscode.pl/uploads/header_2b63901edb.jpg&large_image=&small_image=&hex=0082ff" />
-](https://discord.com/users/433503150012629005)
+[<img src="https://discord-readme-badge.vercel.app/api?id=433503150012629005" />](https://discord.com/users/433503150012629005)
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vite,ts,tailwind,redis,react,py,lua,idea,go)](https://mscode.pl/)
 <br>
