@@ -1,11 +1,9 @@
 <div align="center">
 
 # 📝 About Me:
-`💻`・CEO: **https://mscode.pl/**<br>
+`💻`・CEO & Co-Founder: **https://mscode.pl/**<br>
 `👕`・Developer at: **https://e-modo.pl/**<br>
-`💵`・Developer at: **https://paymenter.org/**<br>
-`🌐`・Hosting: **https://discord.gg/mscode**<br>
-`🌱` I’m currently learning: React Native and NextJS<br>
+`🌱` I’m currently learning: NextJS and Flutter<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
   ~ Walt Disney
@@ -26,8 +24,5 @@
 # 🏆 My Stats:
 [![](https://streak-stats.demolab.com?user=mscodepl&theme=transparent&hide_border=true)](https://mscode.pl)<br>
 [![](https://visitcount.itsvg.in/api?id=mscodepl&label=Profile%20Views&color=1&icon=0&pretty=true)](https://mscode.pl)<br>
-
-## 💰 You can help me by Donating
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3I2BAO)
 
 </div>
