@@ -1,9 +1,8 @@
 <div align="center">
 
 # 📝 About Me:
-`💻`・CEO & Co-Founder: **https://mscode.pl/**<br>
-`👕`・Developer at: **https://e-modo.pl/**<br>
-`🌱` I’m currently learning: NextJS and Flutter<br>
+`💻`・CEO & Founder: **https://mscode.pl/**<br>
+`🌱` I’m currently learning: React and GoLang<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
   ~ Walt Disney
