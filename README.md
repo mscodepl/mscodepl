@@ -15,7 +15,7 @@
 
 [<img src="https://discord-readme-badge.vercel.app/api?id=433503150012629005" />](https://discord.com/users/433503150012629005)
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vite,ts,tailwind,redis,react,py,lua,idea,go)](https://mscode.pl/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vite,ts,tailwind,react,py,lua,arduino,go,flutter,nextjs)](https://mscode.pl/)
 <br>
 <br>
 <br>
