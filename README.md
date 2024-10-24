@@ -15,7 +15,10 @@
 
 [<img src="https://discord-readme-badge.vercel.app/api?id=433503150012629005" />](https://discord.com/users/433503150012629005)
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,vite,ts,tailwind,react,py,lua,arduino,go,flutter,nextjs)](https://mscode.pl/)
+  <a href="https://msikorski.me/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,py,lua,php,express,nextjs,react,laravel,vite,tailwind,flutter" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgres,redis" />
+  </a>
 <br>
 <br>
 <br>
