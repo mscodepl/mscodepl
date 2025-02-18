@@ -2,7 +2,7 @@
 
 # 📝 About Me:
 `💻`・CEO & Founder: **https://mscode.pl/**<br>
-`🌱` I’m currently learning: Flutter & GoLang<br>
+`🌱` I’m currently learning: GoLang<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
   ~ Walt Disney
