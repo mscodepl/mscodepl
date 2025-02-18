@@ -16,8 +16,8 @@
 [<img src="https://discord-readme-badge.vercel.app/api?id=433503150012629005" />](https://discord.com/users/433503150012629005)
 # 💻 Tech Stack:
   <a href="https://msikorski.me/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,py,lua,php,express,nextjs,react,laravel,vite,tailwind,flutter" />
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,py,lua,php,express,nestjs,nextjs,react,laravel,vite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,flutter,nodejs,mysql,mongodb,postgres,redis,rabbitmq" />
   </a>
 <br>
 <br>
